@@ -1,5 +1,5 @@
 # TextBlob
-TextBlob is a Python library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.
+TextBlob is a Python library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more.It's documentation [here.](https://textblob.readthedocs.io/en/dev/index.html)
 
 Generally, the following are the methods/ functions associated with this powerful text processing tool:
 - Create a TextBlob  
